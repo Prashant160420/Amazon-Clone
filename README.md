@@ -33,3 +33,6 @@ Creating an Amazon clone using HTML and CSS involves replicating the basic struc
 10. **Responsive Design**: Ensure your clone is responsive, so it looks and functions well on both desktop and mobile devices. Use media queries to adjust the layout and styling as needed.
 
 Remember that building a complete e-commerce website like Amazon with full functionality (e.g., user accounts, payment processing) requires more than just HTML and CSS. You would need server-side scripting (e.g., PHP, Node.js) and a database (e.g., MySQL) for that. This description provides a starting point for creating a static clone with HTML and CSS, but a full-fledged e-commerce site would require a more extensive tech stack.
+
+**NOTE**:
+This clone is still not responsive.
